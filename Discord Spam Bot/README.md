@@ -4,8 +4,6 @@
 
 2.  Install Discord.py: Open a terminal or command prompt and run the following command to install the Discord.py library:
 
-    bashCopy code
-
     `pip install discord.py`
 
 ### Bot Setup:
