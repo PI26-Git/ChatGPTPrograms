@@ -37,8 +37,6 @@
 
     -   Run the script:
 
-        bashCopy code
-
         `python your_script_name.py`
 
         Replace `your_script_name.py` with the actual name of your Python script.
