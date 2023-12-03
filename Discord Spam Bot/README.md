@@ -60,4 +60,4 @@
     -   Go to the Discord server where you invited the bot.
     -   Wait for the scheduled messages to be sent based on the specified time interval.
 
-That's it! You should now have a Discord bot running and sending messages at the specified intervals in the designated channel. If you encounter any issues or have further questions, feel free to ask for assistance.
+This was generated with chat gpt 3.5. I'm lazy.
